@@ -1,6 +1,6 @@
 {
   "name": "nestjs-graph",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "package for drawing dependency graph on HTML and serving it",
   "keywords": [
     "nestjs",
@@ -27,6 +27,7 @@
     "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^9.2.1",
     "@types/node": "^18.11.17",
+    "nestjs-graph": "^0.0.0",
     "typescript": "^4.9.4"
   }
 }
