@@ -33,6 +33,8 @@ this code will draw dependency graph using [mermaid-js](https://mermaid.js.org/)
 
 ![alt](https://user-images.githubusercontent.com/51329156/208886831-721b3f50-166d-4034-b67a-cee11feefb09.png)
 
+This is the dependency graph of [nestjs cat sample](https://github.com/nestjs/nest/tree/master/sample/01-cats-app)
+
 ## Future work
 
 - add functionality to customize html contents.
